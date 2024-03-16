@@ -2,7 +2,8 @@ The code for TKDE23 "Multi-view Bipartite Graph Clustering with Coupled Noisy Fe
 
 Any discussions or concerns are welcomed! Please contact me via e-mail: liliang1037@gmail.com
 
-If you are interested in this paper, please cite:  
+If you find this repository useful to your research or work, it is really appreciate to star this repository. ❤️  
+
 @ARTICLE{LIANGTKDE23,
   author={Li, Liang and Zhang, Junpu and Wang, Siwei and Liu, Xinwang and Li, Kenli and Li, Keqin},  
   journal={IEEE Transactions on Knowledge and Data Engineering},  
